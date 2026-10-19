@@ -1,0 +1,14 @@
+# PDF 扫描件 OCR 模块 —— 依赖
+# 安装： pip install -r requirements.txt
+
+# 必需：PDF 渲染 + 文字层读取、图片处理
+pymupdf>=1.24.0
+pillow>=9.0.0
+numpy>=1.26.0
+
+# 推荐：本地离线 OCR 引擎（免费、中文识别准、模型随包自带，装完可断网使用）
+rapidocr-onnxruntime>=1.3.0
+
+# 仅当使用云端 vlm 引擎时才需要（另需设置 OCR_VLM_API_KEY 环境变量）
+langchain-openai>=0.1.0
+langchain-core>=0.2.0

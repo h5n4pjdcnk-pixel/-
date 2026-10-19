@@ -1,0 +1,26 @@
+{"query":"储能变流器电压波动和闪变的检测步骤有哪些","expected_source":"GBT+34133-2023","expected_keywords":["闪变","电压波动"],"note":"GB/T 34133 检测方法"}
+{"query":"储能变流器待机损耗和空载损耗的限值是多少","expected_source":"GBT+34120-2023","expected_keywords":["待机损耗","空载损耗"],"note":"GB/T 34120 技术规范"}
+{"query":"储能变流器的绝缘电阻测试怎么接线和施加电压","expected_source":"GBT+42737-2023","expected_keywords":["绝缘电阻"],"note":"GB/T 42737 调试规程"}
+{"query":"储能变流器调试前需要具备哪些条件","expected_source":"GBT+42737-2023","expected_keywords":["调试","接地"],"note":"GB/T 42737 调试条件"}
+{"query":"水电解制氢系统启动和停机试验的操作步骤","expected_source":"GBT+44111-2024","expected_keywords":["制氢"],"note":"GB/T 44111 制氢系统试验"}
+{"query":"低温环境对锂离子电池安全运行有什么影响","expected_source":"储能电站锂离子电池本体安全","expected_keywords":["低温","锂电镀"],"note":"本体安全综述"}
+{"query":"高温环境为什么会让电池温度持续上升并触发热失控","expected_source":"储能电站锂离子电池本体安全","expected_keywords":["高温","热失控"],"note":"本体安全综述"}
+{"query":"相变材料冷却如何抑制热失控蔓延，有什么缺点","expected_source":"锂离子电池热失控蔓延研究进展","expected_keywords":["相变"],"note":"热失控蔓延综述"}
+{"query":"复合相变材料与液冷结合抑制热失控的效果如何","expected_source":"锂离子电池热失控蔓延研究进展","expected_keywords":["相变","液冷"],"note":"热失控蔓延综述"}
+{"query":"液流电池目前开发了哪些新体系","expected_source":"2021年中国储能技术研究进展","expected_keywords":["液流电池"],"note":"储能技术年度进展"}
+{"query":"机器学习如何用于预测全钒液流电池的成本和性能","expected_source":"2021年中国储能技术研究进展","expected_keywords":["液流电池","机器学习"],"note":"储能技术年度进展"}
+{"query":"北京丰台4·16储能电站火灾事故的原因和财产损失","expected_source":"中国储能网 -用户侧","expected_keywords":["丰台","火灾"],"note":"用户侧事故调查报告"}
+{"query":"甘肃武威储能电站过充起火的事故原因认定","expected_source":"中国储能网 -消防系统","expected_keywords":["武威","过充"],"note":"消防系统事故报告"}
+{"query":"全球电化学储能电站火灾爆炸事故的统计分析和风险因素评估","expected_source":"中国储能网 -产业观察","expected_keywords":["火灾爆炸","事故"],"note":"产业观察统计分析"}
+{"query":"基于孤立森林算法的电池微内短路故障诊断方法","expected_source":"基于孤立森林","expected_keywords":["孤立森林","内短路"],"note":"故障诊断论文"}
+{"query":"韩国锂离子电池储能电站安全事故的原因分析和思考","expected_source":"中国储能网 -电源侧","expected_keywords":["韩国"],"note":"电源侧事故分析"}
+{"query":"电化学储能电站火灾事故的多维度特征与消防安全现状","expected_source":"中国储能网 -安全与消防","expected_keywords":["消防","火灾"],"note":"安全与消防研究"}
+{"query":"动力电池梯次利用储能电站验收时一致性检查的电压和温差要求","expected_source":"DB32","expected_keywords":["一致性","温差"],"note":"江苏地方运维规程"}
+{"query":"储能电站电池管理系统BMU模块的通用要求","expected_source":"DB32","expected_keywords":["电池管理系统"],"note":"江苏地方运维规程"}
+{"query":"磷酸铁锂电池热失控行为及燃爆传播特性实验研究","expected_source":"储能用大容量磷酸铁锂电池热失控行为","expected_keywords":["磷酸铁锂"],"note":"故障案例实验论文"}
+{"query":"锂离子电池储能系统BMS功能安全分析与设计的安全完整性等级","expected_source":"锂离子电池储能系统BMS","expected_keywords":["功能安全"],"note":"BMS功能安全"}
+{"query":"基于大数据和人工智能的储能系统故障预测与诊断方法","expected_source":"基于大数据和人工智能","expected_keywords":["故障预测"],"note":"故障预测论文"}
+{"query":"液冷储能系统的运维保养和维护步骤","expected_source":"E105-Liquid-cooling","expected_keywords":["maintenance"],"note":"英文液冷运维手册"}
+{"query":"PCS125HV维护手册中螺母和柱塞机构的安装步骤","expected_source":"PCS 125HV_MM","expected_keywords":["Maintenance"],"note":"英文PCS维护手册"}
+{"query":"华为LUNA2000工商业风液智冷储能解决方案用户手册","expected_source":"HUAWEI LUNA2000","expected_keywords":["LUNA2000"],"note":"设备用户手册"}
+{"query":"光伏储能电站的消防安全对策研究","expected_source":"基于火灾分析的光伏储能电站消防安全对策研究","expected_keywords":["消防"],"note":"消防对策论文"}
